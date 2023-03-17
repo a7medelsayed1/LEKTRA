@@ -1,8 +1,8 @@
 import 'controller/comments_one_controller.dart';
-import 'package:fatma_ragab_s_application1/core/app_export.dart';
-import 'package:fatma_ragab_s_application1/presentation/your_experience_page/your_experience_page.dart';
-import 'package:fatma_ragab_s_application1/widgets/custom_bottom_bar.dart';
-import 'package:fatma_ragab_s_application1/widgets/custom_text_form_field.dart';
+import 'package:LEKTRA/core/app_export.dart';
+import 'package:LEKTRA/presentation/your_experience_page/your_experience_page.dart';
+import 'package:LEKTRA/widgets/custom_bottom_bar.dart';
+import 'package:LEKTRA1/widgets/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
 
 class CommentsOneScreen extends GetWidget<CommentsOneController> {
