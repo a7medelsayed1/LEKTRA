@@ -12,6 +12,12 @@ class LEKTRA extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'LEKTRA',
+      translations: AppLocalization(),
+      locale: Get.deviceLocale, //for setting localization strings
+      fallbackLocale: Locale('en', 'US'),
+      initialBinding: InitialBindings(),
+      initialRoute: AppRoutes.initialRoute,//change it to homepage طبعًا لأني كنت عملاها على أساس الاسكرينات بتاعتي
+      getPages: AppRoutes.pages,
       home:Scaffold(
 
         body: Column(
