@@ -1,5 +1,5 @@
-import 'package:fatma_ragab_s_application1/core/app_export.dart';
-import 'package:fatma_ragab_s_application1/presentation/your_experience_page/models/your_experience_model.dart';
+import 'package:LEKTRA/core/app_export.dart';
+import 'package:LEKTRA/presentation/your_experience_page/models/your_experience_model.dart';
 
 class YourExperienceController extends GetxController {
   YourExperienceController(this.yourExperienceModelObj);
