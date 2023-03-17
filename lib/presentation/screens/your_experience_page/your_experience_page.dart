@@ -4,10 +4,10 @@ import 'controller/your_experience_controller.dart';
 import 'models/listellipsetwelve_item_model.dart';
 import 'models/listomarahmed_item_model.dart';
 import 'models/your_experience_model.dart';
-import 'package:fatma_ragab_s_application1/core/app_export.dart';
-import 'package:fatma_ragab_s_application1/widgets/app_bar/appbar_image.dart';
-import 'package:fatma_ragab_s_application1/widgets/app_bar/custom_app_bar.dart';
-import 'package:fatma_ragab_s_application1/widgets/custom_button.dart';
+import 'package:LEKTRA/core/app_export.dart';
+import 'package:LEKTRA/widgets/app_bar/appbar_image.dart';
+import 'package:LEKTRA/widgets/app_bar/custom_app_bar.dart';
+import 'package:LEKTRA/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 
 // ignore_for_file: must_be_immutable
