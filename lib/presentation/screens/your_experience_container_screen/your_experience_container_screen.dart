@@ -1,7 +1,7 @@
 import 'controller/your_experience_container_controller.dart';
-import 'package:fatma_ragab_s_application1/core/app_export.dart';
-import 'package:fatma_ragab_s_application1/presentation/your_experience_page/your_experience_page.dart';
-import 'package:fatma_ragab_s_application1/widgets/custom_bottom_bar.dart';
+import 'package:LEKTRA/core/app_export.dart';
+import 'package:LEKTRA/presentation/your_experience_page/your_experience_page.dart';
+import 'package:LEKTRA/widgets/custom_bottom_bar.dart';
 import 'package:flutter/material.dart';
 
 class YourExperienceContainerScreen
