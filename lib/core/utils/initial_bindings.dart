@@ -1,5 +1,5 @@
-import 'package:fatma_ragab_s_application1/core/app_export.dart';
-import 'package:fatma_ragab_s_application1/data/apiClient/api_client.dart';
+import 'package:LEKTRA/core/app_export.dart';
+import 'package:LEKTRA/data/apiClient/api_client.dart';
 
 class InitialBindings extends Bindings {
   @override
