@@ -12,15 +12,18 @@ class LEKTRA extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'LEKTRA',
-      home:Column(
-        children: [
-          HomeScreen(),
-          Container(
-            alignment:Alignment.bottomCenter,
-            child:MyNavigationbar(),
-          )
-          
-        ],
+      home:Scaffold(
+
+        body: Column(
+            children: [
+              HomeScreen(),
+              Container(
+                alignment:Alignment.bottomCenter,
+                child:MyNavigationbar(),
+              )
+
+            ]
+        ),
       ),
     );
   }
