@@ -1,6 +1,6 @@
-import 'package:fatma_ragab_s_application1/core/app_export.dart';
-import 'package:fatma_ragab_s_application1/presentation/comments_screen/models/comments_model.dart';
-import 'package:fatma_ragab_s_application1/widgets/custom_bottom_bar.dart';
+import 'package:LEKTRA/core/app_export.dart';
+import 'package:LEKTRA/presentation/comments_screen/models/comments_model.dart';
+import 'package:LEKTRA/widgets/custom_bottom_bar.dart';
 import 'package:flutter/material.dart';
 
 class CommentsController extends GetxController {
