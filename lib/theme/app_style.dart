@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fatma_ragab_s_application1/core/app_export.dart';
+import 'package:LEKTRA/core/app_export.dart';
 
 class AppStyle {
   static TextStyle txtInterMedium18 = TextStyle(
