@@ -1,19 +1,19 @@
-import 'package:fatma_ragab_s_application1/presentation/your_experience_container_screen/your_experience_container_screen.dart';
-import 'package:fatma_ragab_s_application1/presentation/your_experience_container_screen/binding/your_experience_container_binding.dart';
-import 'package:fatma_ragab_s_application1/presentation/add_your_experience_screen/add_your_experience_screen.dart';
-import 'package:fatma_ragab_s_application1/presentation/add_your_experience_screen/binding/add_your_experience_binding.dart';
-import 'package:fatma_ragab_s_application1/presentation/post_your_experience_screen/post_your_experience_screen.dart';
-import 'package:fatma_ragab_s_application1/presentation/post_your_experience_screen/binding/post_your_experience_binding.dart';
-import 'package:fatma_ragab_s_application1/presentation/comments_two_screen/comments_two_screen.dart';
-import 'package:fatma_ragab_s_application1/presentation/comments_two_screen/binding/comments_two_binding.dart';
-import 'package:fatma_ragab_s_application1/presentation/comments_screen/comments_screen.dart';
-import 'package:fatma_ragab_s_application1/presentation/comments_screen/binding/comments_binding.dart';
-import 'package:fatma_ragab_s_application1/presentation/comments_one_screen/comments_one_screen.dart';
-import 'package:fatma_ragab_s_application1/presentation/comments_one_screen/binding/comments_one_binding.dart';
-import 'package:fatma_ragab_s_application1/presentation/parent_profile_screen/parent_profile_screen.dart';
-import 'package:fatma_ragab_s_application1/presentation/parent_profile_screen/binding/parent_profile_binding.dart';
-import 'package:fatma_ragab_s_application1/presentation/app_navigation_screen/app_navigation_screen.dart';
-import 'package:fatma_ragab_s_application1/presentation/app_navigation_screen/binding/app_navigation_binding.dart';
+import 'package:LEKTRA/presentation/your_experience_container_screen/your_experience_container_screen.dart';
+import 'package:LEKTRA/presentation/your_experience_container_screen/binding/your_experience_container_binding.dart';
+import 'package:LEKTRA/presentation/add_your_experience_screen/add_your_experience_screen.dart';
+import 'package:LEKTRA/presentation/add_your_experience_screen/binding/add_your_experience_binding.dart';
+import 'package:LEKTRA/presentation/post_your_experience_screen/post_your_experience_screen.dart';
+import 'package:LEKTRA/presentation/post_your_experience_screen/binding/post_your_experience_binding.dart';
+import 'package:LEKTRA/presentation/comments_two_screen/comments_two_screen.dart';
+import 'package:LEKTRA/presentation/comments_two_screen/binding/comments_two_binding.dart';
+import 'package:LEKTRA/presentation/comments_screen/comments_screen.dart';
+import 'package:LEKTRA/presentation/comments_screen/binding/comments_binding.dart';
+import 'package:LEKTRA/presentation/comments_one_screen/comments_one_screen.dart';
+import 'package:LEKTRA/presentation/comments_one_screen/binding/comments_one_binding.dart';
+import 'package:LEKTRA/presentation/parent_profile_screen/parent_profile_screen.dart';
+import 'package:LEKTRA/presentation/parent_profile_screen/binding/parent_profile_binding.dart';
+import 'package:LEKTRA/presentation/app_navigation_screen/app_navigation_screen.dart';
+import 'package:LEKTRA/presentation/app_navigation_screen/binding/app_navigation_binding.dart';
 import 'package:get/get.dart';
 
 class AppRoutes {
