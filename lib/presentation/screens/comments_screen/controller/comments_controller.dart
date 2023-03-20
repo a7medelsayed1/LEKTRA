@@ -1,7 +1,7 @@
-import 'package:LEKTRA/core/app_export.dart';
-import 'package:LEKTRA/presentation/comments_screen/models/comments_model.dart';
-import 'package:LEKTRA/widgets/custom_bottom_bar.dart';
 import 'package:flutter/material.dart';
+
+import '../../../../core/app_export.dart';
+import '../models/comments_model.dart';
 
 class CommentsController extends GetxController {
   TextEditingController groupTenController = TextEditingController();

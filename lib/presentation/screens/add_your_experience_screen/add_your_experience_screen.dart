@@ -1,11 +1,12 @@
+import '../../../core/app_export.dart';
+import '../../widgets/widgets/app_bar/appbar_image.dart';
+import '../../widgets/widgets/app_bar/appbar_subtitle.dart';
+import '../../widgets/widgets/app_bar/custom_app_bar.dart';
+import '../../widgets/widgets/custom_bottom_bar.dart';
+import '../../widgets/widgets/custom_button.dart';
+import '../your_experience_page/your_experience_page.dart';
 import 'controller/add_your_experience_controller.dart';
-import 'package:LEKTRA/core/app_export.dart';
-import 'package:LEKTRA/presentation/your_experience_page/your_experience_page.dart';
-import 'package:LEKTRA/widgets/app_bar/appbar_image.dart';
-import 'package:LEKTRA/widgets/app_bar/appbar_subtitle.dart';
-import 'package:LEKTRA/widgets/app_bar/custom_app_bar.dart';
-import 'package:LEKTRA1/widgets/custom_bottom_bar.dart';
-import 'package:LEKTRA1/widgets/custom_button.dart';
+
 import 'package:flutter/material.dart';
 
 class AddYourExperienceScreen extends GetWidget<AddYourExperienceController> {

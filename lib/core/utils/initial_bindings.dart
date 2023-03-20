@@ -1,5 +1,5 @@
-import 'package:LEKTRA/core/app_export.dart';
-import 'package:LEKTRA/data/apiClient/api_client.dart';
+import '../../core/app_export.dart';
+import '../../data/web_services/api_client.dart';
 
 class InitialBindings extends Bindings {
   @override

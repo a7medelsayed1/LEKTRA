@@ -1,5 +1,6 @@
-import 'package:LEKTRA/core/app_export.dart';
-import 'package:LEKTRA/presentation/post_your_experience_screen/models/post_your_experience_model.dart';
+
+import '../../../../core/app_export.dart';
+import '../models/post_your_experience_model.dart';
 
 class PostYourExperienceController extends GetxController {
   Rx<PostYourExperienceModel> postYourExperienceModelObj =

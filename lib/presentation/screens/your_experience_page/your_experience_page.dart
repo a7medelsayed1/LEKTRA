@@ -1,13 +1,13 @@
+import '../../../core/app_export.dart';
+import '../../widgets/widgets/app_bar/appbar_image.dart';
+import '../../widgets/widgets/app_bar/custom_app_bar.dart';
+import '../../widgets/widgets/custom_button.dart';
 import '../your_experience_page/widgets/listellipsetwelve_item_widget.dart';
 import '../your_experience_page/widgets/listomarahmed_item_widget.dart';
 import 'controller/your_experience_controller.dart';
 import 'models/listellipsetwelve_item_model.dart';
 import 'models/listomarahmed_item_model.dart';
 import 'models/your_experience_model.dart';
-import 'package:LEKTRA/core/app_export.dart';
-import 'package:LEKTRA/widgets/app_bar/appbar_image.dart';
-import 'package:LEKTRA/widgets/app_bar/custom_app_bar.dart';
-import 'package:LEKTRA/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 
 // ignore_for_file: must_be_immutable

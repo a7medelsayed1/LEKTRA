@@ -1,6 +1,7 @@
-import 'package:LEKTRA/core/app_export.dart';
-import 'package:LEKTRA/presentation/parent_profile_screen/models/parent_profile_model.dart';
-import 'package:LEKTRA/widgets/custom_bottom_bar.dart';
+
+
+import '../../../../core/app_export.dart';
+import '../models/parent_profile_model.dart';
 
 class ParentProfileController extends GetxController {
   Rx<ParentProfileModel> parentProfileModelObj = ParentProfileModel().obs;

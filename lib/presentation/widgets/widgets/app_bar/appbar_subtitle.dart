@@ -1,5 +1,7 @@
-import 'package:LEKTRA/core/app_export.dart';
 import 'package:flutter/material.dart';
+
+import '../../../../core/utils/color_constant.dart';
+import '../../../../theme/app_style.dart';
 
 // ignore: must_be_immutable
 class AppbarSubtitle extends StatelessWidget {

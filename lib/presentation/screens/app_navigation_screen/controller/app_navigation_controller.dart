@@ -1,5 +1,5 @@
-import 'package:LEKTRA/core/app_export.dart';
-import 'package:LEKTRA/presentation/app_navigation_screen/models/app_navigation_model.dart';
+import '../../../../core/app_export.dart';
+import '../models/app_navigation_model.dart';
 
 class AppNavigationController extends GetxController {
   Rx<AppNavigationModel> appNavigationModelObj = AppNavigationModel().obs;
